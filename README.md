@@ -1,4 +1,4 @@
-# Tic-Tac-Toe(井字棋)
+# Tic-Tac-Toe
 This is a simple Tic-Tac-Toe game.
 
 It requires two players to play.
